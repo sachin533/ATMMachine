@@ -1,0 +1,52 @@
+Enter your PIN: 
+5674
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+1
+Account Balance: 0.0
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+2
+Enter Amount to Withdraw: 
+100.0
+Insufficient Balance
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+3
+Enter the Amount to Deposit: 
+100.0
+Money Deposited Successfully
+Updated Balance: 100.0
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+1
+Account Balance: 100.0
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+2
+Enter Amount to Withdraw: 
+50.0
+Money Withdrawal Successful
+Remaining Balance: 50.0
+Enter Your Choice: 
+1. Check Account Balance
+2. Withdraw Money
+3. Deposit Money
+4. EXIT
+4
+Exiting ATM. Thank you!
